@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #212529;
+}
+
+
+.texto-gris{
+    color: #707070;
+}
+
+.cuppon-nav{
+    max-height: 2rem;
+}
+
+.img-fluid{
+    max-height: 2rem;
+}
+
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { .card{
+    width: 18rem;
+}
+}
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { .card{
+    width: 18rem;
+}
+}
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { .card{
+    width: 18rem;
+}
+}
